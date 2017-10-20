@@ -2,6 +2,8 @@
 
  Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more infomation about each script.
 
+ Go to the [code](https://github.com/xubiod/gml-scripts) to check out the scripts!
+
 These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x
 
 ---
@@ -36,7 +38,7 @@ Script "Hierarchy"
  
 **Strings**
  * `char_is_vowel()`
- * `newline_to_hash()`
+ * `newline_to_hash()` **_(Not recommended for use with GameMaker Studio 2.x (hashes are obsolete in favor of newline characters))_**
  * `string_reverse()`
 
 **Time**
