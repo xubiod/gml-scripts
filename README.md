@@ -22,6 +22,6 @@ Script "Hierarchy"
  * draw_text_outline_ext_transformed()
 
 **Instances**
- * instance_create_depth() **_Not recommended for use with GameMaker Studio 2.x (function already exists)_**
+ * instance_create_depth() **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
  * instance_activate_in_view()
  
