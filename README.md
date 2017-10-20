@@ -15,6 +15,13 @@ Script "Hierarchy"
  * alarm_dispose()
  * alarm_dispose_all()
  
+**Drawing**
+ * draw_text_outline()
+ * draw_text_outline_color()
+ * draw_text_outline_ext()
+ * draw_text_outline_ext_transformed()
+
 **Instances**
  * instance_create_depth()
  * instance_activate_in_view()
+ 
