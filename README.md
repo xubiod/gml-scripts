@@ -15,15 +15,30 @@ Script "Hierarchy"
  * alarm_dispose()
  * alarm_dispose_all()
  
+**Async**
+ * async_dialog_complete()
+ 
 **Drawing**
  * draw_text_outline()
  * draw_text_outline_color()
  * draw_text_outline_ext()
  * draw_text_outline_ext_transformed()
+ 
+**Math**
+ * move_decimal_place()
+
+**Random**
+ * irandom_color()
+ * random_color()
 
 **Instances**
  * instance_create_depth() **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
  * instance_activate_in_view()
+ 
+**Strings**
+ * char_is_vowel()
+ * newline_to_hash()
+ * string_reverse()
 
 **Time**
  * accurate_milliseconds()
