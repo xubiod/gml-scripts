@@ -1,6 +1,3 @@
-# gml-scripts
-A repo to house the GML scripts I made for GameMaker: Studio 1.4.x
+# gml-scripts-ghpages
 
-Currently in development.
-
-[GitHub Repo Wiki](https://github.com/xubiod/gml-scripts/wiki)
+[GitHub page](https://xubiod.github.com/gml-scripts)
