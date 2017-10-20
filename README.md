@@ -1,6 +1,6 @@
 # GML Scripts by [@xubiod](https://twitter.com/Xubiod)
 
-[GitHub wiki](https://github.com/xubiod/gml-scripts/wiki)
+ Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more infomation about each script.
 
 These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x
 
@@ -24,4 +24,8 @@ Script "Hierarchy"
 **Instances**
  * instance_create_depth() **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
  * instance_activate_in_view()
- 
+
+**Time**
+ * accurate_milliseconds()
+ * accurate_seconds()
+ * accurate_minutes()
