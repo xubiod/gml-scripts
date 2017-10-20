@@ -1,3 +1,3 @@
-# gml-scripts-ghpages
+# GML Scripts by [@xubiod](https://twitter.com/Xubiod)
 
-[GitHub page](https://xubiod.github.com/gml-scripts)
+[GitHub wiki](https://github.com/xubiod/gml-scripts/wiki)
