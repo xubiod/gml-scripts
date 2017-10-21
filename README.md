@@ -20,7 +20,7 @@ Script "Hierarchy"
  * `alarm_dispose_all()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose_all()) 
  
 **Async**
- * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete())) 
+ * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete()) 
  
 **Drawing**
  * `draw_text_outline()`
