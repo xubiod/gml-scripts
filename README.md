@@ -1,6 +1,6 @@
 # GML Scripts by [@xubiod](https://twitter.com/Xubiod)
 
-Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more infomation about each script.
+Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more information about each script.
 
 Click on "View in GitHub" to check out the scripts!
 
@@ -14,13 +14,13 @@ Script "Hierarchy"
 *(not all of these are in the repo just yet, and these might not be all of them locally)*
 
 **Alarms**
- * `alarm_create_seconds()`
- * `alarm_create_minutes()`
- * `alarm_dispose()`
- * `alarm_dispose_all()`
+ * `alarm_create_seconds()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_seconds()) 
+ * `alarm_create_minutes()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_minutes()) 
+ * `alarm_dispose()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose()) 
+ * `alarm_dispose_all()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose_all()) 
  
 **Async**
- * `async_dialog_complete()`
+ * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete())) 
  
 **Drawing**
  * `draw_text_outline()`
