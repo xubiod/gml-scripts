@@ -27,7 +27,7 @@ Script "Hierarchy"
  * `draw_text_outline_color()`
  * `draw_text_outline_ext()`
  
-**Images**
+**Images/Sprites**
  * `image_scale()`
  * `image_scale_box()`
  * `image_scale_proportional()`
