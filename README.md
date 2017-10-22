@@ -27,6 +27,21 @@ Script "Hierarchy"
  * `draw_text_outline_color()`
  * `draw_text_outline_ext()`
  
+**Images**
+ * `image_scale()`
+ * `image_scale_box()`
+ * `image_scale_proportional()`
+ * `image_scale_proportional_box()`
+ * `image_flip_x()`
+ * `image_flip_y()`
+ * `image_squish_x()`
+ * `image_squish_y()`
+
+**Instances**
+ * `instance_create_depth()` **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
+ * `instance_activate_in_view()`
+ * `instance_deactivate_in_view()`
+ 
 **Math**
  * `move_decimal_place()`
 
@@ -34,10 +49,12 @@ Script "Hierarchy"
  * `irandom_color()`
  * `random_color()`
 
-**Instances**
- * `instance_create_depth()` **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
- * `instance_activate_in_view()`
- 
+**Shaders**
+ * `shader_set_uniform_vec1_from_str()`
+ * `shader_set_uniform_vec2_from_str()`
+ * `shader_set_uniform_vec3_from_str()`
+ * `shader_set_uniform_vec4_from_str()`
+
 **Strings**
  * `char_is_vowel()`
  * `newline_to_hash()` **_(Not recommended for use with GameMaker Studio 2.x (hashes are obsolete in favor of newline characters))_**
