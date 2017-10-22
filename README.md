@@ -1,6 +1,6 @@
 # GML Scripts by [@xubiod](https://twitter.com/Xubiod)
 
-Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more information about each script.
+## Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more information about each script.
 
 Click on "View in GitHub" to check out the scripts!
 
