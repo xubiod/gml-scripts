@@ -1,6 +1,6 @@
 # GML Scripts by [@xubiod](https://twitter.com/Xubiod)
 
-#### Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more information about each script.
+Go to the [GitHub wiki](https://github.com/xubiod/gml-scripts/wiki) for more information about each script.
 
 Click on "View in GitHub" to check out the scripts!
 
@@ -36,15 +36,15 @@ Script "Hierarchy"
  * `draw_text_outline_ext()`
 
 ### Images/Sprites
- * #### **Scaling**
+ * **Scaling**
  * `image_scale()`
  * `image_scale_box()`
  * `image_scale_proportional()`
  * `image_scale_proportional_box()`
- * #### **Flipping**
+ * **Flipping**
  * `image_flip_x()`
  * `image_flip_y()`
- * #### **Squash and Stretch**
+ * **Squash and Stretch**
  * `image_squish_x()`
  * `image_squish_y()`
 
@@ -54,14 +54,14 @@ Script "Hierarchy"
  * `instance_deactivate_in_view()`
  
 ### Masks/Bounding Boxes
- * #### **Masks**
+ * **Masks**
  * `mask_set_as_spr()`
- * #### **BBox Out of View**
+ * **BBox Out of View**
  * `bbox_top_out_view()`
  * `bbox_left_out_view()`
  * `bbox_bottom_out_view()`
  * `bbox_right_out_view()`
- * #### **BBox Out of Room**
+ * **BBox Out of Room**
  * `bbox_top_out_room()`
  * `bbox_left_out_room()`
  * `bbox_bottom_out_room()`
@@ -75,7 +75,7 @@ Script "Hierarchy"
  * `random_color()`
 
 ### Shaders
- * #### **Set Uniform**
+ * **Set Uniform**
  * `shader_set_uniform_vec1_from_str()`
  * `shader_set_uniform_vec2_from_str()`
  * `shader_set_uniform_vec3_from_str()`
