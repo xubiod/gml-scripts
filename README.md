@@ -41,12 +41,12 @@ Script "Hierarchy"
    * `image_scale_box()`
    * `image_scale_proportional()`
    * `image_scale_proportional_box()`
-   
+   <li/>
    
  * #### **Flipping**
    * `image_flip_x()`
    * `image_flip_y()`
-   
+   <li/>
    
  * #### **Squash and Stretch**
    * `image_squish_x()`
@@ -60,14 +60,14 @@ Script "Hierarchy"
 ### Masks/Bounding Boxes
  * #### **Masks**
    * `mask_set_as_spr()`
-   
+   <li/>
    
  * #### **BBox Out of View**
    * `bbox_top_out_view()`
    * `bbox_left_out_view()`
    * `bbox_bottom_out_view()`
    * `bbox_right_out_view()`
-   
+   <li/>
    
  * #### **BBox Out of Room**
    * `bbox_top_out_room()`
