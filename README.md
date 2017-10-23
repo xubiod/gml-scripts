@@ -26,15 +26,15 @@ Script "Hierarchy"
  * `alarm_create_minutes()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_minutes()) 
  * `alarm_dispose()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose()) 
  * `alarm_dispose_all()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose_all()) 
- 
+
 ### Async
  * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete()) 
- 
+
 ### Drawing
  * `draw_text_outline()`
  * `draw_text_outline_color()`
  * `draw_text_outline_ext()`
- 
+
 ### Images/Sprites
 
  * #### Scaling
@@ -42,11 +42,11 @@ Script "Hierarchy"
    * `image_scale_box()`
    * `image_scale_proportional()`
    * `image_scale_proportional_box()`
-   
+
  * #### Flipping
    * `image_flip_x()`
    * `image_flip_y()`
-   
+
  * #### Squash and Stretch
    * `image_squish_x()`
    * `image_squish_y()`
@@ -59,19 +59,19 @@ Script "Hierarchy"
 ### Masks/Bounding Boxes
  * #### Masks
    * `mask_set_as_spr()`
-   
+
  * #### BBox Out of View
    * `bbox_top_out_view()`
    * `bbox_left_out_view()`
    * `bbox_bottom_out_view()`
    * `bbox_right_out_view()`
-   
+
  * #### BBox Out of Room
    * `bbox_top_out_room()`
    * `bbox_left_out_room()`
    * `bbox_bottom_out_room()`
    * `bbox_right_out_room()`
- 
+
 ### Math
  * `move_decimal_place()`
 
