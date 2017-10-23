@@ -8,7 +8,7 @@ Want to add something? First, [go here.](http://www.gmlscripts.com/script/index)
 
 These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x.
 
-*Total amount of scripts*: *37** 
+*Total amount of scripts*: **37** 
 
 ---
 
