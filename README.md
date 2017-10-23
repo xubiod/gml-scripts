@@ -11,8 +11,11 @@ These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x.
 *Total amount of scripts*: **_37_** 
 
 ---
+
 ### Quick Navigation for The Lazy (like me!)
-[Alarms](#alarms) [Async](#async) [Drawing](#drawing) [Images/Sprites](#imagessprites) [Instances](#instances) [Masks](#masks) [Math](#math) [Random](#random) [Shaders](#shaders) [Strings](#Strings) [TIme](#time)
+
+[Alarms](#alarms) | [Async](#async) | [Drawing](#drawing) | [Images/Sprites](#imagessprites) | [Instances](#instances) | [Masks](#masks) | [Math](#math) | [Random](#random) | [Shaders](#shaders) | [Strings](#Strings) | [Time](#time)
+
 ---
 
 Script "Hierarchy"
