@@ -40,8 +40,10 @@ Script "Hierarchy"
  * `image_scale_box()`
  * `image_scale_proportional()`
  * `image_scale_proportional_box()`
+ 
  * `image_flip_x()`
  * `image_flip_y()`
+ 
  * `image_squish_x()`
  * `image_squish_y()`
 
