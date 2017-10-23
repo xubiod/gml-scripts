@@ -41,15 +41,16 @@ Script "Hierarchy"
    * `image_scale_box()`
    * `image_scale_proportional()`
    * `image_scale_proportional_box()`
-   *
+   
+   
  * #### **Flipping**
    * `image_flip_x()`
    * `image_flip_y()`
-   *
+   
+   
  * #### **Squash and Stretch**
    * `image_squish_x()`
    * `image_squish_y()`
-   *
 
 ### Instances
  * `instance_create_depth()` **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
@@ -59,13 +60,15 @@ Script "Hierarchy"
 ### Masks/Bounding Boxes
  * #### **Masks**
    * `mask_set_as_spr()`
-   *
+   
+   
  * #### **BBox Out of View**
    * `bbox_top_out_view()`
    * `bbox_left_out_view()`
    * `bbox_bottom_out_view()`
    * `bbox_right_out_view()`
-   *
+   
+   
  * #### **BBox Out of Room**
    * `bbox_top_out_room()`
    * `bbox_left_out_room()`
