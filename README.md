@@ -42,6 +42,13 @@ Script "Hierarchy"
  * `instance_activate_in_view()`
  * `instance_deactivate_in_view()`
  
+ **Masks**
+ * `mask_set_as_spr`
+ * `bbox_top_out_view`
+ * `bbox_left_out_view`
+ * `bbox_bottom_out_view`
+ * `bbox_right_out_view`
+ 
 **Math**
  * `move_decimal_place()`
 
