@@ -51,11 +51,15 @@ Script "Hierarchy"
  * `instance_deactivate_in_view()`
  
 ### Masks
- * `mask_set_as_spr`
- * `bbox_top_out_view`
- * `bbox_left_out_view`
- * `bbox_bottom_out_view`
- * `bbox_right_out_view`
+ * `mask_set_as_spr()`
+ * `bbox_top_out_view()`
+ * `bbox_left_out_view()`
+ * `bbox_bottom_out_view()`
+ * `bbox_right_out_view()`
+ * `bbox_top_out_room()`
+ * `bbox_left_out_room()`
+ * `bbox_bottom_out_room()`
+ * `bbox_right_out_room()`
  
 ### Math
  * `move_decimal_place()`
