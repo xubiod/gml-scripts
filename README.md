@@ -22,10 +22,12 @@ Script "Hierarchy"
 *(not all of these are in the repo just yet, and these might not be all of them locally)*
 
 ### Alarms
- * `alarm_create_seconds()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_seconds()) 
- * `alarm_create_minutes()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_minutes()) 
- * `alarm_dispose()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose()) 
- * `alarm_dispose_all()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose_all()) 
+ * **Creating**
+   * `alarm_create_seconds()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_seconds()) 
+   * `alarm_create_minutes()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_create_minutes()) 
+ * **Disposing**
+   * `alarm_dispose()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose()) 
+   * `alarm_dispose_all()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/alarm_dispose_all()) 
 
 ### Async
  * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete()) 
@@ -49,9 +51,11 @@ Script "Hierarchy"
    * `image_squish_y()`
 
 ### Instances
- * `instance_create_depth()` **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
- * `instance_activate_in_view()`
- * `instance_deactivate_in_view()`
+ * **Creating**
+   * `instance_create_depth()` **_(Not recommended for use with GameMaker Studio 2.x (function already exists))_**
+ * **Activating/Deactivating**
+   * `instance_activate_in_view()`
+   * `instance_deactivate_in_view()`
  
 ### Masks/Bounding Boxes
  * **Masks**
@@ -71,8 +75,9 @@ Script "Hierarchy"
  * `move_decimal_place()`
 
 ### Random
- * `irandom_color()`
- * `random_color()`
+ * **Color**
+   * `irandom_color()`
+   * `random_color()`
 
 ### Shaders
  * **Set Uniform**
