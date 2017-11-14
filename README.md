@@ -6,7 +6,7 @@ Click on "View in GitHub" to check out the scripts!
 
 Want to add something? First, [go here.](http://www.gmlscripts.com/script/index) I don't want to add anything from gmlscripts.com (If I add anything that is on the site, it's probably a coincidence. I don't check there often.) If it's not there, yet you want to add a script, [create a pull request!](https://github.com/xubiod/gml-scripts/pulls)
 
-These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x. These scripts were made in GM: S 1.4.x, and is formatted for GM: S 1.4.x. The scripts work in GMS 2.x, yet some backwards compatibility is needed.
+These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x. These scripts were made in GM:S 1.4.x, and is formatted for GM:S 1.4.x. The scripts work in GMS 2.x, yet some backwards compatibility is needed.
 
 *Total amount of scripts*: **_41_** 
 
