@@ -33,7 +33,7 @@ Script "Hierarchy"
  * `async_dialog_complete()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/async_dialog_complete()) 
 
 ### Drawing
- * `draw_text_outline()`
+ * `draw_text_outline()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/draw_text_outline())
  * `draw_text_outline_color()`
  * `draw_text_outline_ext()`
 
