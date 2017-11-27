@@ -8,7 +8,7 @@ Want to add something? First, [go here.](http://www.gmlscripts.com/script/index)
 
 These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x. These scripts were made in GM:S 1.4.x, and is formatted for GM:S 1.4.x. The scripts work in GMS 2.x, yet some backwards compatibility is needed.
 
-*Total amount of scripts*: **_41_** 
+*Total amount of scripts*: **_45_** 
 
 ---
 
@@ -36,6 +36,7 @@ Script "Hierarchy"
  * `draw_text_outline()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/draw_text_outline())
  * `draw_text_outline_color()` [Wiki Page](https://github.com/xubiod/gml-scripts/wiki/draw_text_outline_color())
  * `draw_text_outline_ext()`
+ * `draw_self_shader()`
 
 ### Images/Sprites
  * **Scaling**
@@ -60,6 +61,7 @@ Script "Hierarchy"
 ### Masks/Bounding Boxes
  * **Masks**
    * `mask_set_as_spr()`
+   * `mask_unassign`
  * **BBox Out of View**
    * `bbox_top_out_view()`
    * `bbox_left_out_view()`
@@ -78,6 +80,12 @@ Script "Hierarchy"
  * **Color**
    * `irandom_color()`
    * `random_color()`
+ * **Arguments**
+   * `random_argument()`
+
+### Scripts
+ * **Execution**
+   * `script_exist_execute()`
 
 ### Shaders
  * **Set Uniform**
