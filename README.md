@@ -61,7 +61,7 @@ Script "Hierarchy"
 ### Masks/Bounding Boxes
  * **Masks**
    * `mask_set_as_spr()`
-   * `mask_unassign`
+   * `mask_unassign()`
  * **BBox Out of View**
    * `bbox_top_out_view()`
    * `bbox_left_out_view()`
