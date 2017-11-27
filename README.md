@@ -14,7 +14,7 @@ These are scripts for use in GameMaker: Studio 1.4.x and GameMaker Studio 2.x. T
 
 ### Quick Navigation for The Lazy (like me!)
 
-[Alarms](#alarms) \| [Async](#async) \| [Drawing](#drawing) \| [Images/Sprites](#imagessprites) \| [Instances](#instances) \| [Masks/Bounding Boxes](#masksbounding-boxes) \| [Math](#math) \| [Random](#random) \| [Shaders](#shaders) \| [Strings](#strings) \| [Time](#time)
+[Alarms](#alarms) \| [Async](#async) \| [Drawing](#drawing) \| [Images/Sprites](#imagessprites) \| [Instances](#instances) \| [Masks/Bounding Boxes](#masksbounding-boxes) \| [Math](#math) \| [Random](#random) \| [Scripts](#scripts) \| [Shaders](#shaders) \| [Strings](#strings) \| [Time](#time)
 
 ---
 
